@@ -1,0 +1,12 @@
+{
+  "title": "Открыть в VS Code",
+  "index": 0,
+  "exe": "\"%LOCALAPPDATA%\\Programs\\Microsoft VS Code\\Code.exe\"",
+  "param": "\"{path}\"",
+  "icon": "\"%LOCALAPPDATA%\\Programs\\Microsoft VS Code\\Code.exe\",0",
+  "iconDark": "\"%LOCALAPPDATA%\\Programs\\Microsoft VS Code\\Code.exe\",0",
+  "acceptDirectoryFlag": 7,
+  "acceptFileFlag": 4,
+  "acceptMultipleFilesFlag": 1,
+  "showWindowFlag": 0
+}
