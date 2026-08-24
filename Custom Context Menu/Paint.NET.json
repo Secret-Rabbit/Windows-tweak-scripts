@@ -1,0 +1,15 @@
+{
+  "title": "Открыть в paint.NET",
+  "index": 0,
+  "exe": "\"C:\\Program Files\\Paint.NET\\paintdotnet.exe\"",
+  "param": "\"{path}\"",
+  "icon": "\"C:\\Program Files\\Paint.NET\\paintdotnet.exe\",0",
+  "iconDark": "\"C:\\Program Files\\Paint.NET\\paintdotnet.exe\",0",
+  "acceptDirectoryFlag": 0,
+  "acceptFileFlag": 3,
+  "acceptExts": ".pdn|.png|.jpg|.jpeg|.jpe|.jfif|.exif|.jxl|.avif|.heic|.heif|.hif|.webp|.dds|.tiff|.tif|.gif|.bmp|.dib|.rle|.tga|.jxr|.wdp|.wmp",
+  "acceptMultipleFilesFlag": 1,
+  "acceptMultipleFilesRuleFlag": 0,
+  "showWindowFlag": 0,
+  "runAsFlag": 0
+}
