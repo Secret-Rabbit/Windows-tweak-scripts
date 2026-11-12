@@ -1,5 +1,5 @@
 {
-  "title": "Открыть в paint.NET",
+  "title": "Открыть в Paint.NET",
   "index": 0,
   "exe": "\"C:\\Program Files\\Paint.NET\\paintdotnet.exe\"",
   "param": "\"{path}\"",
